@@ -1,0 +1,4 @@
+python-docx
+langchain
+langchain-community
+groq
