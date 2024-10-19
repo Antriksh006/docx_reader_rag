@@ -28,3 +28,11 @@ ENTER_YOUR_QUERY_HERE: Type in the question you want to ask.
 ENTER_YOUR_GROQ_API_KEY_HERE: Input your Groq API key.
 ENTER_FILE_PATH: Provide the file path to the DOCX file you want to use for context.
 ```
+
+## Highlighted Citations
+
+Now after getting a response from the bot, you can get the citations of the context used by chatbot to form the result which will open a document showing you the highlighted text in a new document.
+
+```
+After getting a response, Enter 1 to get the citation
+```
